@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site - Jihoon" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         그냥 진격의거인에 나오는  <code>MIKASA 보자</code>
         </p>
       </main>
 
