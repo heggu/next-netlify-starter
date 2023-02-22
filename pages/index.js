@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site - Jihoon" />
         <p className="description">
-         그냥 진격의거인에 나오는  <code>MIKASA 보자</code>
+         Attack on Titan Last Season Release Date <code>March 3th</code>
         </p>
       </main>
 
