@@ -11,12 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
+        <p id="demo"></p>
+
         <Header title="Welcome to my site - Jihoon" />
         <p className="description">
-         Attack on Titan Last Season Release Date <code><!-- Display the countdown timer in an element -->
-<p id="demo"></p>
-
-<script>
+         Attack on Titan Last Season Release Date <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Jan 5, 2024 15:37:25").getTime();
 
@@ -45,7 +44,6 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
-</script></code>
         </p>
       </main>
 
@@ -53,3 +51,7 @@ var x = setInterval(function() {
     </div>
   )
 }
+
+
+
+</script>
