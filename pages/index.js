@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site - Jihoon!" />
         <p className="description">
-           <img src="https://cdn.discordapp.com/attachments/1030350459950600222/1077913389122203689/download.png" class="Footer_logo__AdUui">
+          <img src="https://cdn.discordapp.com/attachments/1030350459950600222/1077913389122203689/download.png" class="">
         </p>
       </main>
 
