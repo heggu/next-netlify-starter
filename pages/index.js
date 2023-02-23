@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site - Jihoon!" />
         <p className="description">
-          Attack on Titan Last Season Release Date <code>3/3</code>
+          Attack on Titan Last Season Release Date <img src="https://cdn.discordapp.com/attachments/1030350459950600222/1077913389122203689/download.png">
         </p>
       </main>
 
