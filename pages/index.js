@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
          <code> I am learning computer science. Java, Python, etc. </code>
-        <img src="https://cdn.discordapp.com/attachments/1030350459950600222/1077913389122203689/download.png"width="100" height="100">
+         <button onclick="location.href='https://shingeki.tv/final/'">Button</button >
         </p>
       </main>
 
